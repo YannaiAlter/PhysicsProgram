@@ -1,0 +1,7 @@
+C:\Users\YannaiAlter\documents\visual studio 2010\Projects\PhysicsProgram\PhysicsProgram\bin\Debug\PhysicsProgram.exe
+C:\Users\YannaiAlter\documents\visual studio 2010\Projects\PhysicsProgram\PhysicsProgram\bin\Debug\PhysicsProgram.pdb
+C:\Users\YannaiAlter\documents\visual studio 2010\Projects\PhysicsProgram\PhysicsProgram\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\YannaiAlter\documents\visual studio 2010\Projects\PhysicsProgram\PhysicsProgram\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\YannaiAlter\documents\visual studio 2010\Projects\PhysicsProgram\PhysicsProgram\obj\x86\Debug\PhysicsProgram.csproj.GenerateResource.Cache
+C:\Users\YannaiAlter\documents\visual studio 2010\Projects\PhysicsProgram\PhysicsProgram\obj\x86\Debug\PhysicsProgram.exe
+C:\Users\YannaiAlter\documents\visual studio 2010\Projects\PhysicsProgram\PhysicsProgram\obj\x86\Debug\PhysicsProgram.pdb
